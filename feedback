@@ -1,0 +1,8 @@
+For the HSS reporting, the team was looking at alternatives to the Lotus email. 
+Especially, there was a need to create server side solution with minimal infrastructure.
+Vaibhav has lead the research, analysis and implementation of EWS Java application to Send  & Draft email with HSS report.
+This has now been accepted by the client and is now being used in Production.
+
+Vaibhav has proven his technical capabilities by implementing EWS Java application to send and draft email with HSS report.
+Application built-up using Spring boot and Outlook's EWS (Exchange Web service) Java API. 
+EWS is Zero defect application at this point, That’s a great achievement.Keep it up!!
